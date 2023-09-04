@@ -35,6 +35,10 @@
   gap: 1rem;
 }
 
+.experience__details > div > h4 {
+  text-align: left;
+}
+
 .experience__details-icon {
   margin-top: 6px;
 }
