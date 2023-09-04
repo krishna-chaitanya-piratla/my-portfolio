@@ -1,6 +1,5 @@
 import React from 'react';
 import './Footer.css';
-import { RiFacebookFill } from 'react-icons/ri';
 import { RiLinkedinFill } from 'react-icons/ri';
 import { LuGithub } from 'react-icons/lu';
 
@@ -34,14 +33,11 @@ const Footer = () => {
         </li>
       </ul>
       <div className='footer__socials'>
-        <a href='https://facebook.com'>
-          <RiFacebookFill />
-        </a>
-        <a href='https://linkedin.com'>
+        <a href='https://www.linkedin.com/in/krishna-piratla/'>
           <RiLinkedinFill />
         </a>
 
-        <a href='https://github.com'>
+        <a href='https://github.com/krishna-chaitanya-piratla'>
           <LuGithub />
         </a>
       </div>
